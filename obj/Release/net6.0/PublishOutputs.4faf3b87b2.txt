@@ -1,0 +1,13 @@
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.dll
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.deps.json
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.runtimeconfig.json
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.pdb
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/System.Data.SqlClient.dll
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-arm64/native/sni.dll
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-x64/native/sni.dll
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-x86/native/sni.dll
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/asadkhan/Desktop/projects/AZ-204/Azure Web Apps/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
